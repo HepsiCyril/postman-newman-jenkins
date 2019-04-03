@@ -1,0 +1,12 @@
+{
+  "name": "postmanjenkinsgitnewman",
+  "version": "1.0.0",
+  "description": "Project for storing Postman tests",
+  "scripts": {
+    "tpi-tests-production": "echo \"newman run tests/jsonplaceholder.com.postman_collection.json"
+  },
+  "author": "Hepsi Cyril",
+  "dependencies": {
+    "newman": "^4.4.1"
+  }
+}
